@@ -85,6 +85,7 @@ const checkWinner = () => {
             if (pos1val == pos2val && pos2val == pos3val) {
 
                 showWinner(pos1val);
+                return;
             }
 
         }
