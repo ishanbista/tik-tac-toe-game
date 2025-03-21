@@ -9,6 +9,7 @@ This is a simple Tic Tac Toe game that I made using HTML, CSS and JavaScript. Th
 
 # Screenshots
 <div align="center">
+   
 ![Image](https://github.com/user-attachments/assets/af0e3b9b-6c52-4e29-a820-7e84c004ee3a)
 
 ![Image](https://github.com/user-attachments/assets/6a4f9383-080e-4189-8eae-488ed48bb4c9)
