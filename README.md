@@ -8,6 +8,7 @@ This is a simple Tic Tac Toe game that I made using HTML, CSS and JavaScript. Th
 - Simple and clean UI
 
 # Screenshots
+<div align="center">
 ![Image](https://github.com/user-attachments/assets/af0e3b9b-6c52-4e29-a820-7e84c004ee3a)
 
 ![Image](https://github.com/user-attachments/assets/6a4f9383-080e-4189-8eae-488ed48bb4c9)
@@ -15,6 +16,7 @@ This is a simple Tic Tac Toe game that I made using HTML, CSS and JavaScript. Th
 ![Image](https://github.com/user-attachments/assets/3dd714b2-6a9a-4659-9059-d56e67082028)
 
 ![Image](https://github.com/user-attachments/assets/e3c3f268-666d-4859-a5cf-c9230fcdcf5f)
+</div>
 
 ## Installation
 1. Clone the repository:
